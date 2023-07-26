@@ -1,0 +1,10 @@
+* cl-conspack
+
+Implementation for Common Lisp.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/conspack/cl-conspack.git   |
+| commit  | 6e529d7  |
+| systems | cl-conspack |
+|---------+-------------------------------------------|
+
